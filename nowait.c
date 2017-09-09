@@ -22,6 +22,7 @@ c=c*2;
 
 }
 printf("A is %d\tB is %d\tC is %d\n",a,b,c);
+printf("\n\nIts a NoWait Program in OpenMP");
 
 return 0;
 }
